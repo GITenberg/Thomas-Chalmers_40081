@@ -1,0 +1,35 @@
+_repo: Thomas-Chalmers_40081
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 40081-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Blaikie, William Garden
+    alias: Blaikie, W. G. (William Garden)
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '4965'
+    url: http://www.gutenberg.org/2009/agents/4965
+    wikipedia: http://en.wikipedia.org/wiki/William_Garden_Blaikie
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2012-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 9
+subjects:
+- !lcsh 'Chalmers, Thomas, 1780-1847'
+- !lcc 'BX'
+title: Thomas Chalmers
+url: http://www.gutenberg.org/ebooks/40081
