@@ -33,5 +33,6 @@ series_note: Famous Scots Series, 9
 subjects:
 - !lcsh 'Chalmers, Thomas, 1780-1847'
 - !lcc 'BX'
+- GITenberg
 title: Thomas Chalmers
 url: http://www.gutenberg.org/ebooks/40081
